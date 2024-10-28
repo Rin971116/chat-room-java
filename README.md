@@ -1,5 +1,5 @@
 # Terminal Chat Room
-This project is a basic chat room application implemented in Java, with a focus on:
+A basic chat room application implemented in Java, with a focus on:
 
 Socket Communication: Server and client sockets handle real-time messaging.
 I/O Stream Management: Ensures efficient data transfer between users.
